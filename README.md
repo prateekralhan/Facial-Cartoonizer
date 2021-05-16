@@ -17,9 +17,16 @@ A minimalistic Web application that makes use of a simple facial image cartooniz
 2. Run the command: ***python app.py***
 3. This will run the web-app on localhost. Feel free to play around with the codes, add more features, beautify it. :wink:
 
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/118412754-67b43380-b6b9-11eb-8e10-b2096515a995.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/118412754-67b43380-b6b9-11eb-8e10-b2096515a995.png"/> 
+</kbd>
+
+&nbsp;
+
+
 <hr>
 <b>NOTE:</b>
- *  Ensure your entire web app folder structure is maintained in the same format as you see here ( as in case of Flask ).
+ 1.  Ensure your entire web app folder structure is maintained in the same format as you see here ( as in case of Flask ).
 <hr>
 
 ### Running the Dockerized App
