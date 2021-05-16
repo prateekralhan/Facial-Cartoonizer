@@ -30,7 +30,6 @@ A minimalistic Web application that makes use of a simple facial image cartooniz
 </kbd>
 
 &nbsp;
-
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/118412815-b5c93700-b6b9-11eb-857c-53edfec80140.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/118412815-b5c93700-b6b9-11eb-857c-53edfec80140.png"/> 
 </kbd>
