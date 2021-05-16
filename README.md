@@ -22,8 +22,16 @@ A minimalistic Web application that makes use of a simple facial image cartooniz
 </kbd>
 
 &nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/118412813-b366dd00-b6b9-11eb-97fe-6bb48de92aa3.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/118412813-b366dd00-b6b9-11eb-97fe-6bb48de92aa3.png"/> 
+</kbd>
 
+&nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/118412815-b5c93700-b6b9-11eb-857c-53edfec80140.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/118412815-b5c93700-b6b9-11eb-857c-53edfec80140.png"/> 
+</kbd>
 
+&nbsp;
 <hr>
 <b>NOTE:</b>
  1.  Ensure your entire web app folder structure is maintained in the same format as you see here ( as in case of Flask ).
