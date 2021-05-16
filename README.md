@@ -30,6 +30,7 @@ A minimalistic Web application that makes use of a simple facial image cartooniz
 </kbd>
 
 &nbsp;
+
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/118412815-b5c93700-b6b9-11eb-857c-53edfec80140.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/118412815-b5c93700-b6b9-11eb-857c-53edfec80140.png"/> 
 </kbd>
@@ -56,3 +57,9 @@ This will launch the dockerized app. Navigate to ***localhost:8000*** in your br
 ```
 docker ps
 ```
+
+## Citations:
+
+* [Paper](https://systemerrorwang.github.io/White-box-Cartoonization/) - @InProceedings{Wang_2020_CVPR, author = {Wang, Xinrui and Yu, Jinze}, title = {Learning to Cartoonize Using White-Box Cartoon Representations}, booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, month = {June}, year = {2020} }
+
+* [Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”.](https://github.com/SystemErrorWang/White-box-Cartoonization) 
