@@ -15,7 +15,8 @@ A minimalistic Web application that makes use of a simple facial image cartooniz
 ## Usage:
 1. Clone this Repository to a directory and navigate to that directory.
 2. Run the command: ***python app.py***
-3. This will run the web-app on localhost. Feel free to play around with the codes, add more features, beautify it. :wink:
+3. This will run the web-app on localhost. Upload your desired Image and it will automatically download the cartoonized version of the same in your system.
+4. Feel free to play around with the codes, add more features, beautify it. :wink:
 
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/118412754-67b43380-b6b9-11eb-8e10-b2096515a995.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/118412754-67b43380-b6b9-11eb-8e10-b2096515a995.png"/> 
