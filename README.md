@@ -46,11 +46,11 @@ A minimalistic Web application that makes use of a simple facial image cartooniz
 2. Navigate to the folder where you have cloned this repository ( where the ***Dockerfile*** is present ).
 3. Build the Docker Image (don't forget the dot!! :smile: ): 
 ```
-docker build --tag sketch_app .
+docker build --tag cartoonizer_app .
 ```
 4. Run the docker:
 ```
-docker run --publish 8000:8080 --detach --name bb sketch_app
+docker run --publish 8000:8080 --detach --name bb cartoonizer_app
 ```
 
 This will launch the dockerized app. Navigate to ***localhost:8000*** in your browser to have a look at your application. You can check the status of your all available running dockers by:
