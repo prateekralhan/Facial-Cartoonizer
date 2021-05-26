@@ -1,6 +1,6 @@
 # 👻👽 Facial Cartoonizer 👾🤖
 
-A minimalistic Web application that makes use of a simple facial image cartoonization network to generate cartoon like sketch like output for any image fed as input ( based on CVPR2020 White-box cartoonizaiton paper ).
+A minimalistic Web application that makes use of a simple facial image cartoonization network to generate cartoon sketch like output for any image fed as input ( based on CVPR2020 White-box cartoonizaiton paper ).
 
 ## Live app available [here.](https://facial-cartoonizer.herokuapp.com/)
 
