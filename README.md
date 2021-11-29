@@ -1,4 +1,5 @@
-# 👻👽 Facial Cartoonizer 👾🤖 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# 👻👽 Facial Cartoonizer 👾🤖 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 
 A minimalistic Web application that makes use of a simple facial image cartoonization network to generate cartoon sketch like output for any image fed as input ( based on CVPR2020 White-box cartoonizaiton paper ).
 
